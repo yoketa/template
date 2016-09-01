@@ -28,6 +28,7 @@ public class Cola implements Queue {
     public Object top() { return this.list.getFirst();}
 
 
-    public void remove() { this.list.removeFirst();}
+    public void remove() {this.list.removeFirst();
+    }
 
 }
