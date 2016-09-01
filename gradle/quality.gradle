@@ -1,6 +1,6 @@
 checkstyle {
     toolVersion = '6.7'
-    ignoreFailures = false
+    ignoreFailures = true
 }
 
 findbugs {
